@@ -1,1 +1,21 @@
-# Heterogeneous_Sources_for_Multidocs
+# Heterogeneous_Sources_for_Multi-docs
+
+## 简介
+
+以CLOCQ为原型，搭建一个可以用于检索多文档证据的异构知识库，用于下游任务。
+
+初期以医学领域展开
+
+## 步骤
+
+### 现有知识图谱
+
+### KB倒排索引
+
+### KB转换事实
+
+### 计算公式
+
+### 链接异构源
+
+### 计算公式
